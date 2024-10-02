@@ -2,6 +2,7 @@
 
 make dir look like this
 
+```
 C:.
 │   qemuuik.py
 │
@@ -22,6 +23,8 @@ C:.
     │   
     │   ...
     │   qemu-system-x86_64.exe
+
+```
 
 and so on....
 
